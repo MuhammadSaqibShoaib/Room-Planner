@@ -50,7 +50,7 @@ JSON serialization → PlayerPrefs (persistence)
 ## Building & Running
 
 ### Prerequisites
-- Unity 2022 LTS
+- Unity 6.3 LTS
 - AR Foundation package (`com.unity.xr.arfoundation`)
 - ARCore XR Plugin (Android) or ARKit XR Plugin (iOS)
 - Android API level 24+ or iOS 14.3+
@@ -113,6 +113,6 @@ MIT
 
 ## Contact
 
-[Your name] — [your email or LinkedIn]
+Muhammad Saqib — https://muhammadsaqibshoaib.github.io/
 
 Questions about AR Foundation, anchoring strategies, or the persistence system? Feel free to open an issue.
